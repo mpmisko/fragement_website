@@ -22,13 +22,11 @@ function Home() {
         <HeroHome />
         <FeaturesHome />
         <FeaturesBlocks />
-        <Testimonials />
         <Newsletter />
 
       </main>
 
       {/*  Site footer */}
-      <Footer />
 
     </div>
   );

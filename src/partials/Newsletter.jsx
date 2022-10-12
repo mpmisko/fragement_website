@@ -50,7 +50,6 @@ function Newsletter() {
                   </div>
                   {/* Success message */}
                   {/* <p className="text-sm text-gray-400 mt-3">Thanks for subscribing!</p> */}
-                  <p className="text-sm text-gray-400 mt-3">7 days free trial. No credit card required.</p>
                 </form>
               </div>
 
